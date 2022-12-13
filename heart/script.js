@@ -90,7 +90,7 @@ window.requestAnimationFrame =
  
             var config = {
                 traceK: 0.4,
-                timeDelta: 0.25
+                timeDelta: 0.1
             };
  
             var time = 0;
